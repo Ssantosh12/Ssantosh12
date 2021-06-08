@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Path Finding Project in python using A* Algorithm
+- 🔭 I’m currently working on chatbot project using neural networks
 - 🌱 I’m currently learning Data Structures & Algorithms, Python
 - 👯 I’m looking to collaborate on github
 - 🤔 I’m looking for help with learning advanced data structures & algorithms like graphs,dp,backtracking etc.
