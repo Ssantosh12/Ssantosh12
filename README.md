@@ -5,7 +5,7 @@
 Welcome to my GitHub repository! This is where I share my learning journey. Feel free to explore my progress, projects, and contributions!
 
 ## 🚀 Currently Working On:
-- Improving my skills in **Data Structures & Algorithms**.
+- Improving my skills in **Data Structures & Algorithms** and building **Web Development** skills.
 
 ## 📚 What I'm Learning:
 - Strengthening my understanding of key concepts such as:
@@ -14,12 +14,10 @@ Welcome to my GitHub repository! This is where I share my learning journey. Feel
   - **Recursion**
   - **Dynamic Programming (DP)**
   - **Graphs**
-  - And other important algorithms and data structures.
 
 ## 💬 Ask Me About:
 - Standard **Competitive Programming (CP)** problems and algorithms. Feel free to reach out if you have any questions!
 
-Welcome to my GitHub repository! This is a place where I share my learning journey and personal projects. Feel free to explore and get in touch!
 
 ## 📫 How to Reach Me:
 - **LinkedIn**: [[Santosh Kumar]](https://www.linkedin.com/in/santosh-kumar-2b19b417b/)
