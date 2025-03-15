@@ -1,10 +1,32 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently working on my Data Structures & Algorithms skills
-- 🤔 I’m learning for strengthening my knowledge of data structures & algorithms like graphs,dp,backtracking etc.
-- 💬 Ask me about standard cp problems and algorithms 
-- 📫 How to reach me: LinkedIn : Santosh Kumar-[https://www.linkedin.com/in/santosh-kumar-2b19b417b/](https://www.linkedin.com/in/santosh-kumar-2b19b417b/)
-- ⚡ Fun fact: upsolving problems after each coding contest is a must todo
 
-![enter image description here](https://miro.medium.com/max/1024/1*9QRFQdpO2f59GsN2KsE9XA.png)
+Welcome to my GitHub repository! This is where I share my learning journey. Feel free to explore my progress, projects, and contributions!
+
+## 🚀 Currently Working On:
+- Improving my skills in **Data Structures & Algorithms**.
+
+## 📚 What I'm Learning:
+- Strengthening my understanding of key concepts such as:
+  - **Two Pointers**
+  - **Binary Search**
+  - **Recursion**
+  - **Dynamic Programming (DP)**
+  - **Graphs**
+  - And other important algorithms and data structures.
+
+## 💬 Ask Me About:
+- Standard **Competitive Programming (CP)** problems and algorithms. Feel free to reach out if you have any questions!
+
+Welcome to my GitHub repository! This is a place where I share my learning journey and personal projects. Feel free to explore and get in touch!
+
+## 📫 How to Reach Me:
+- **LinkedIn**: [[Santosh Kumar]](https://www.linkedin.com/in/santosh-kumar-2b19b417b/)
+
+## ⚡ Motivation:
+- "Every day you miss playing or practicing is one day longer it takes to be good."
+
+
+<img width="474" alt="coding+for+high+school+students" src="https://github.com/user-attachments/assets/3cf52b79-599f-42b3-b3c2-2e5d1546d4ca" />
+
