@@ -26,5 +26,7 @@ Welcome to my GitHub repository! This is where I share my learning journey. Feel
 - "Every day you miss playing or practicing is one day longer it takes to be good."
 
 
-<img width="474" alt="coding+for+high+school+students" src="https://github.com/user-attachments/assets/3cf52b79-599f-42b3-b3c2-2e5d1546d4ca" />
+![72b6bf4f94afd99e102649e7e57d8372](https://github.com/user-attachments/assets/3ce4da3b-7a0d-45b7-ab6e-525dcc0cec23)
+
+
 
