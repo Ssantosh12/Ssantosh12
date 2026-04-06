@@ -17,6 +17,7 @@ I am a Software Engineer focused on building robust backend systems and solving 
 ## 🔭 Currently Working On:
 - Developing high-concurrency backend systems and exploring Distributed Systems architecture.
 - Refining Low-Level Design (LLD) patterns for scalable applications.
+- **Live API:** [View my Deployed Spring Boot Project](https://smart-email-replier.onrender.com/swagger-ui/index.html)
 
 ## 🏆 Competitive Programming:
 - **LeetCode/CodeChef:** 800+ Problems Solved.
@@ -24,7 +25,7 @@ I am a Software Engineer focused on building robust backend systems and solving 
 
 ## 📫 Connect with me:
 - **LinkedIn:** [Santosh Kumar](https://www.linkedin.com/in/santosh-kumar-2b19b417b/)
-- **Live API:** [View my Deployed Spring Boot Project](https://smart-email-replier.onrender.com/swagger-ui/index.html)
+- **Email:** [santoshkr1744@gmail.com](mailto:santoshkr1744@gmail.com)
 
 ## ⚡ Motivation:
 "Mastery is not a destination, but a continuous journey of solving one complex problem at a time."
