@@ -10,7 +10,7 @@ I am a Software Engineer focused on building robust backend systems and solving 
 - **Problem Solving:** Solved **800+ problems** across LeetCode and CodeChef, specializing in Dynamic Programming, Graphs, and Advanced Data Structures.
 
 ## 🛠️ Technical Stack:
-- **Languages:** Java, Python, SQL
+- **Languages:** C#, Java, Python, C++, SQL
 - **Frameworks/Tools:** Spring Boot, PostgreSQL, Docker, Git
 - **Deployment:** Render, Cloud Infrastructure
 
